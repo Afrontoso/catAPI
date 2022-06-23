@@ -1,4 +1,4 @@
-const BASE_URL='https://thatcopy.pw/catapi/rest/'
+const BASE_URL='https://api.thecatapi.com/v1/images/search'
 const catBtn=document.getElementById('change-cat');
 const catImg=document.getElementById('cat');
 
